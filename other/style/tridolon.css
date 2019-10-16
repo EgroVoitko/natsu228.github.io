@@ -1,0 +1,281 @@
+body {
+
+	font-family: 'Russo One', sans-serif;
+	margin: 0;
+	font-size: 15px;
+    
+	background: url(../img/Bg.png) center;
+    
+    
+    
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin 0;
+    
+}
+
+
+
+* *:before *:after {
+	box-sizing: border-box;
+}
+
+
+
+
+
+/*Container*/
+
+
+.container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	color: #F5710F;
+	letter-spacing: 2px;
+    
+	
+}
+
+
+
+
+/*Header*/
+
+
+
+.header {
+	width: 100%;
+	padding-top: 15px;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+
+}
+
+
+.header__1 {
+	display: flex;
+	justify-content: space-between;
+}
+
+
+.header_logo {
+	font-size: 25px;
+	font-weight: 600;
+	color: #33FF54;
+    cursor: pointer;
+}
+
+
+/*Навигация*/
+
+
+.nav {
+	font-size: 12px;
+	text-transform: uppercase;
+	
+}
+
+
+.nav_link {
+	list-style: none;
+	margin: 0 15px;
+	font-size: 16px;
+
+	color: #fff;
+	display: inline-block;
+	vertical-align: baseline;
+
+}
+
+/*Сылки*/
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+a:hover {
+	color: #EC5FEC;
+    transition: color 0.2s linear;
+}
+
+
+
+
+
+
+
+/*button*/
+
+
+.button_1 {
+    display: inline-block;
+    list-style: none;
+    z-index: 1 ;
+    
+
+}
+
+
+.button{
+    position: absolute;
+}
+
+
+
+
+.content{
+    width: 1200px center; 
+    margin: 100px;
+    background: #fff;
+    position: relative;
+    box-shadow: 0 0 10px 0 rgba(236, 95, 236, 1);
+}
+
+
+
+
+
+
+
+
+
+
+
+.bg{
+    background: url(../img/Bg.png) center;
+}
+
+
+
+.Eidolon{
+    text-align: center;
+}
+
+
+
+
+
+
+/*About*/
+
+
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.about_item{
+    width: 30%;
+    margin-left: 120px;
+    
+}
+
+
+
+
+img{
+    border: 4px solid #D9D5D9;
+    background-color: #6F6D6F;
+    transition: 0.5s;
+}
+
+
+
+img:hover{
+    transform: scale(1.15);
+    box-shadow: 0 0 10px 0 rgba(236, 95, 236, 1);
+}
+
+
+
+
+
+
+.name{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+.name_item{
+    width: 30%; 
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*H2*/
+
+
+
+.H{
+    font-size: 25px;
+    position: absolute;
+    margin-left: 60px;
+}
+
+
+
+
+
+
+
+
+
+/*I*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
